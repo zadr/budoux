@@ -20,6 +20,10 @@ javascript/dist
 javascript/module
 javascript/src/data
 
+# Swift related files
+.build/
+.swiftpm/
+
 # Generated files by scripts
 source.txt
 encoded_data.txt
